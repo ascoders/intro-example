@@ -7,4 +7,4 @@ You can find the accompanying `Getting started` tutorial [here](http://www.nx-fr
 ## Usage
 
 Clone the repo and run `npm i` and `npm start`. The `npm start` command bundles
-the source and starts a local server. The demo is exposed on `localhost:3000`.
+the source and starts a local server. The demo is exposed on `localhost:3001`.
